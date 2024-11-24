@@ -20,7 +20,7 @@ export default {
       {
         nombreRuta: 'introduccion',
         icono: 'fas fa-info-circle',
-        unidad: 'UNIDAD 1.',
+        unidad: 'UNIDAD 2.',
         numero: '',
         titulo: 'Introducción',
         desarrolloContenidos: true,
@@ -28,7 +28,7 @@ export default {
       {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
-        unidad: 'Unidad 1.',
+        unidad: 'UNIDAD 2.',
         numero: '1',
         titulo: 'Definición de algoritmo',
         desarrolloContenidos: true,
@@ -56,7 +56,7 @@ export default {
       {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
-        unidad: 'Unidad 1.',
+        unidad: 'UNIDAD 2.',
         numero: '2',
         titulo: 'Lógica algorítmica: secuencias, condiciones, ciclos',
         desarrolloContenidos: true,
@@ -78,7 +78,7 @@ export default {
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
-        unidad: 'Unidad 1.',
+        unidad: 'UNIDAD 2.',
         numero: '3',
         titulo:
           'Representación de algoritmos: pseudocódigo y diagramas de flujo',
